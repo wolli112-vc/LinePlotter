@@ -1,3 +1,6 @@
+<img width="504" height="672" alt="IMG_4248" src="https://github.com/user-attachments/assets/2bdb57b8-e7c4-4074-ad8b-80173cf37aa9" />
+
+
 # LinePlotter
 
 Deutschsprachiger Fork des **BrachioGraph** – dem wohl einfachsten Zeichenroboter der Welt.
