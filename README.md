@@ -135,4 +135,3 @@ MIT License – siehe [LICENSE](LICENSE)
 
 - [Original-Dokumentation](https://www.brachiograph.art/)
 - [Make Magazin Artikel](https://heise.de/-4653323/)
-- [Bauanleitung in Make 1/20](https://www.heise.de/select/make/2020/1/2000412032620673807)
